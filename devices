@@ -451,6 +451,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-x50-pro-5g.4542397/"
           },
           {
+               "name": "C3/Narzo 10A",
+               "codename": "RMX2020",
+               "manufacturer": "realme",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "sarthakroy2002",
+                         "link": "https://forum.xda-developers.com/m/sarthakroy2002.8126733/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": ""
+          },
+          {
                "name": "7A",
                "codename": "mi439",
                "manufacturer": "Redmi",

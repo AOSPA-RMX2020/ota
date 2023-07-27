@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-07-28",
+      "datetime": "1690529669",
+      "filename": "aospa-topaz-unofficial-RMX2020-20230728.zip",
+      "url": "https://index.sauraj.eu.org/api/raw/?path=/aospa-topaz-unofficial-RMX2020-20230728.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-1",
+      "size": "1975199900",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Switch to user signed build, Fixed Neverallows, Fixed DT2W, Cleanup, Add PowerOffAlarm, Add RMX2020/RMX2027 model segmentation, Add OTA Support "
+    }
+   ]
+}
